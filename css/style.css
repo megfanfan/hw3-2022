@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Veranda;
+    font-family: Arial, Verdana;
     background-color: #000000;
     color: #ffffff;
     margin: 20px 20px 0px 20px
@@ -25,7 +25,7 @@ img{
     border: 3px dashed #ffffff;
 }
 div{
-    min-width: 125px;
+    min-height: 125px;
     padding: 20px 20px 20px 20px;
     border: 3px solid #ffffff;
 }
